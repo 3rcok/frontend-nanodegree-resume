@@ -97,12 +97,13 @@ var bio = {
   }
 }
 //////////////////////////////////////////////////PROJET/////////////////////////////////////////////////////////////////
+
 var projects = {
   "projects": [{
                  "title": "Admin Console",
                  "dates": "July 2013",
-                 "description": "Implemented a website to manage mobile users, devices for schools. //n "+
-                              "Using Node.js in server side running in Amazon EC2 cloud platform. //n" +
+                 "description": "Implemented a website to manage mobile users, devices for schools. "+
+                              "Using Node.js in server side running in Amazon EC2 cloud platform. " +
                               "For client side used Angular.js, HTML5, Twitter bootstrap framework.",
                  "images": ['./images/fry.jpg']
 
